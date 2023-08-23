@@ -2,6 +2,8 @@
 
 Visit Project : https://main--beautiful-jelly-1992db.netlify.app/
 
+We use OMDB Api for fetch real time data.
+
 ## Available Scripts
 
 In the project directory, you can run:
